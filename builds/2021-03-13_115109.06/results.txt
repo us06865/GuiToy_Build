@@ -1,0 +1,12 @@
+***** C:\Users\Casey\source\repos\Guiscriptdownload\GuiToy_Build\builds\2021-03-13_115109.06\Tests.exe
+
+NUnit Version 2.6.0.12051  2021-03-13  11:51:20
+
+Runtime Environment -
+   OS Version: Microsoft Windows NT 6.2.9200.0
+  CLR Version: 4.0.30319.42000
+
+Tests run: 5, Errors: 0, Failures: 0, Inconclusive: 0, Time: 9.851 seconds
+  Not run: 0, Invalid: 0, Ignored: 0, Skipped: 0
+
+

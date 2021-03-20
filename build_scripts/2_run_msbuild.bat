@@ -1,0 +1,3 @@
+@echo off
+set path="c:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;c:\Program Files\Microsoft Visual Studio 10.0\VC;c:\Program Files (x86)\Microsoft Visual Studio 10.0\VSTSDB\Deploy;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\";c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\Microsoft.NET\Framework\v3.5;c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools;c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin;"
+msbuild
